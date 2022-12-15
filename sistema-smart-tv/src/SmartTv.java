@@ -3,16 +3,27 @@ public class SmartTv {
     int canal = 1;
     int volume = 25;
     
+    public void ligar(){
+        ligada=true;
+    }
+    public void desligar(){
+        ligada=false;
+    }
+
     public void aumentarVolume(){
         volume++;
     }
     public void reduzirVolume(){
         volume--;
     }
-    public void ligar(){
-        ligada=true;
+    
+    public void mudarCanal(int novoCanal){
+        canal = novoCanal;
     }
-    public void desligar(){
-        ligada=false;
+    public void avancarCanal(){
+        canal++;
+    }
+    public void voltarCanal(){
+        canal--;
     }
 }
