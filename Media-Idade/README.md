@@ -5,4 +5,4 @@ Faça um programa que peça para 3 pessoas a sua idade, ao final o programa deve
 A entrada consiste em três números inteiros que representam a idade das pessoas.
 
 ## Saída
-A saída imprimirá a média de idade da turma
+A saída imprimirá a média de idade da turma e sua classificação como jovem, adulta ou idosa
