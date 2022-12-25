@@ -15,6 +15,7 @@ public class Fatorial {
         }
     
         System.out.println(multiplicacao);
-    
-    }   
+  
+    }
+
 }
