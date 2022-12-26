@@ -11,7 +11,6 @@ public class Turno {
         System.out.println("Informe em qual turno você estuda (M/T/N): ");
         char turno = leitor.next().toUpperCase().charAt(0);
 
-
             if (turno == 'm' || turno == 'M') {
                 System.out.println("Bom Dia!");
             }else if (turno == 'v' || turno == 'V') { 
