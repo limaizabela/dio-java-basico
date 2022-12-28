@@ -15,7 +15,6 @@ public class FilaDoBanco {
 
     }
 
-
     System.out.println(nomesFila[0]+ " - está na posição: 1");
     System.out.println(nomesFila[1]+ " - está na posição: 2");
     System.out.println(nomesFila[2]+ " - está na posição: 3");
