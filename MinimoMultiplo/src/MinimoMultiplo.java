@@ -14,7 +14,7 @@ public class MinimoMultiplo {
 			    minimoMultiplo = numero * 2;
 			}
 			
-			System.out.println("O resultado é:c" + minimoMultiplo);
+			System.out.println("O resultado é: " + minimoMultiplo);
 		}
         }
 }
