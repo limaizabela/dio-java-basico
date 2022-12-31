@@ -24,10 +24,10 @@ public class FlechaEscudoEspada{
                             System.out.println("Empatou");
                             break;
                         case 2:
-                            System.out.println("Jogador 2 ganhou");
+                            System.out.println("Jogador 2 venceu");
                             break;
                         case 3:
-                            System.out.println("Jogador 1 ganhou");
+                            System.out.println("Jogador 1 venceu");
                             break;
                         default: 
                                 System.out.println ("OPÇÃO INVÁLIDA");
@@ -35,13 +35,13 @@ public class FlechaEscudoEspada{
                 case 2:
                     switch(jogadaInimigo) {
                         case 1: 
-                            System.out.println("Jogador 1 ganhou");
+                            System.out.println("Jogador 1 venceu");
                             break;
                         case 2:
                             System.out.println("Empatou");
                             break;
                         case 3:
-                            System.out.println("Jogador 2 ganhou");
+                            System.out.println("Jogador 2 venceu");
                             break;
                         default: 
                             System.out.println ("OPÇÃO INVÁLIDA");
@@ -49,10 +49,10 @@ public class FlechaEscudoEspada{
                 case 3:
                     switch(jogadaInimigo) {
                             case 1:
-                                System.out.println("Jogador 2 ganhou");
+                                System.out.println("Jogador 2 venceu");
                                 break;
                             case 2:
-                                System.out.println("Jogador 1 ganhou");
+                                System.out.println("Jogador 1 venceu");
                                 break;
                             case 3:
                                 System.out.println("Empatou");
