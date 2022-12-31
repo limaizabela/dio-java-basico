@@ -34,7 +34,7 @@ public class PedraPapelTesoura {
         } else {
              System.out.println ("OPÇÃO INVÁLIDA");
         }
-                                
+        //código atualizado                        
      }  
 
 }
